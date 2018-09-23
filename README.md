@@ -23,8 +23,8 @@ Here are the links to configure the IDEs.
 Given below will be a curated list of all different apps that we develop using flutter.
 Since I am a flutter beginner myself, hence this repo will be focused on learning this stuff from the ground up!
 
-- [Hello World](./images/hello_world)
-<img src="hello_world.png" height="380" width="200">
+- [Hello World](./hello_world)
+<img src="./images/hello_world.png" height="380" width="200">
 
 #### Contributions
 
