@@ -2,7 +2,7 @@
 
 A repo dedicated to learning and understanding app development with Flutter and Dart. :fire:
 
-<img src="https://flutter.io/images/intellij/hot-reload.gif">
+<img src="./images/hello_world.png" height="380" width="200">  |  <img src="./images/Scaffold_1.png" height="380" width="200">
 
 #### Installing Flutter Locally
 
@@ -25,11 +25,8 @@ Here are the links to configure the IDEs.
 Being a flutter beginner myself, this repo will be focused on learning everything from the ground up!
 Given below is a curated list of all apps that I will be developing as part of my learning-flutter jouney.
 
-- [Day 1](./hello_world)
-<img src="./images/hello_world.png" height="380" width="200">
-
-- [Day 2](./scaffold_sample_app)
-<img src="./images/Scaffold_1.png" height="380" width="200">
+- [Day 1]('hello_world')
+- [Day 2]('scaffold_sample_app')
 
 #### Contributions
 
