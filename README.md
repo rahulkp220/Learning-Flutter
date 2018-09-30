@@ -28,6 +28,9 @@ Given below is a curated list of all apps that I will be developing as part of m
 - [Hello World](./hello_world)
 <img src="./images/hello_world.png" height="380" width="200">
 
+- [Hello World](./scaffold_sample_app)
+<img src="./images/Scaffold_1.png" height="380" width="200">
+
 #### Contributions
 
 I am personally open for any contributions and improvements in my existing codebase.
