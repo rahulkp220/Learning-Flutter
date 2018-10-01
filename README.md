@@ -28,7 +28,7 @@ Given below is a curated list of all apps that I will be developing as part of m
 
 - [Day 1](hello_world/lib/main.dart) - Pleasing the gods :smiley:
 - [Day 2](scaffold_sample_app/lib/main.dart) - Learning scaffolding - try 1
-- [Day 2](scaffold_sample_two/lib/main.dart) - Learning scaffolding - try 2
+- [Day 3](scaffold_sample_two/lib/main.dart) - Learning scaffolding - try 2
 
 #### Contributions
 
