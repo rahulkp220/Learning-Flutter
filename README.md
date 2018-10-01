@@ -2,7 +2,8 @@
 
 A repo dedicated to learning and understanding app development with Flutter and Dart. :fire:
 
-<img src="./images/hello_world.png" height="380" width="200"> <img src="./images/Scaffold_1.png" height="380" width="200">
+<img src="./images/hello_world.png" height="380" width="200"> <img src="./images/Scaffold_1.png" height="380" width="200">  <img src="./images/Scaffold_2.png" height="380" width="200">
+
 
 #### Installing Flutter Locally
 
@@ -27,6 +28,7 @@ Given below is a curated list of all apps that I will be developing as part of m
 
 - [Day 1](hello_world/lib/main.dart) - Pleasing the gods :smiley:
 - [Day 2](scaffold_sample_app/lib/main.dart) - Learning scaffolding - try 1
+- [Day 2](scaffold_sample_two/lib/main.dart) - Learning scaffolding - try 2
 
 #### Contributions
 
