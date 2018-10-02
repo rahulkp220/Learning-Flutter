@@ -2,7 +2,7 @@
 
 A repo dedicated to learning and understanding app development with Flutter and Dart. :fire:
 
-<img src="./images/hello_world.png" height="285" width="150"> <img src="./images/Scaffold_1.png" height="285" width="150">  <img src="./images/Scaffold_2.png" height="285" width="150"> <img src="./images/Tabs_1.png" height="285" width="150">  <img src="./images/Tab_2.png" height="285" width="150">
+<img src="./images/hello_world.png" height="285" width="150"> <img src="./images/Scaffold_1.png" height="285" width="150">  <img src="./images/Scaffold_2.png" height="285" width="150"> <img src="./images/Tab_1.gif" height="285" width="150">  <img src="./images/Tab_2.png" height="285" width="150">
 
 
 #### Installing Flutter Locally
