@@ -32,7 +32,7 @@ Given below is a curated list of all apps that I will be developing as part of m
 - [Day 4](working_with_tabs/lib/main.dart) - Learning to create Tabs - try 1
 - [Day 5](bottom_navigation_bar/lib/main.dart) - Learning to create Tabs - try 2
 - [Day 6](handling_json_app/lib/main.dart) - Handling JSON and HTTP
-- [Day 6](working_with_drawer/lib/main.dart) - Learning to create Drawer
+- [Day 7](working_with_drawer/lib/main.dart) - Learning to create Drawer
 
 #### Contributions
 
