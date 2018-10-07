@@ -2,11 +2,13 @@
 
 A repo dedicated to learning and understanding app development with Flutter and Dart. :fire:
 
-<img src="./images/tab_1.gif" height="320" width="180"><img src="./images/drawer.gif" height="320" width="180"><img src="./images/working_with_forms.gif" height="320" width="180"><img src="./images/working_with_splashscreen.gif" height="320" width="180">
 
-<!---
-<img src="./images/hello_world.png" height="320" width="180"> <img src="./images/Scaffold_1.png" height="320" width="180">  <img src="./images/Scaffold_2.png" height="320" width="180"> <img src="./images/tab_1.gif" height="320" width="180">  <img src="./images/Tab_2.png" height="320" width="180">  <img src="./images/Json_1.png" height="320" width="180">  <img src="./images/drawer.gif" height="320" width="180">  <img src="./images/working_with_forms.gif" height="320" width="180">  <img src="./images/working_with_splashscreen.gif" height="320" width="180">
---->
+<img src="./images/hello_world.png" height="320" width="180"><img src="./images/Scaffold_1.png" height="320" width="180">
+<img src="./images/Scaffold_2.png" height="320" width="180"><img src="./images/tab_1.gif" height="320" width="180">
+<img src="./images/Tab_2.png" height="320" width="180"><img src="./images/Json_1.png" height="320" width="180">
+<img src="./images/drawer.gif" height="320" width="180"><img src="./images/working_with_forms.gif" height="320" width="180">
+<img src="./images/working_with_splashscreen.gif" height="320" width="180">
+
 
 
 #### Installing Flutter Locally
