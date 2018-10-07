@@ -36,6 +36,12 @@ Given below is a curated list of all apps that I will be developing as part of m
 - [Day 8](working_with_forms/lib/main.dart) - Learning to create Forms - try 1
 - [Day 9](working_with_splashscreens/lib/main.dart) - Learning to create Splash Screen
 
+#### Inspirations
+
+A lot of code and mehods to acheive functionalities have been inspired by
+- Videos and Content by [Pawan Kumar](https://github.com/iampawan) (Highly recommended!)
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) by [Nishant Shrivastava](https://github.com/nisrulz)
+
 #### Contributions
 
 I am personally open for any contributions and improvements in my existing codebase.
