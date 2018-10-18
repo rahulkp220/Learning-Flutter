@@ -9,8 +9,10 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Column(
+            // Aligns the widgets to the center of the screen
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
+              // The Icon widget is used to make different icons
               Icon(
                 Icons.email,
                 size: 80.00,
@@ -19,16 +21,22 @@ class MyApp extends StatelessWidget {
             ],
           ),
         ),
+        // Creates a floating action button
         floatingActionButton: FloatingActionButton(
           onPressed: null,
+          // The shape of the button we want
           shape: CircleBorder(side: BorderSide(color: Colors.blue)),
+          // The content we want to have inside the button
           child: Icon(Icons.attach_file),
         ),
         appBar: AppBar(
           title: Text("Home"),
         ),
+        // bottomNavigationBar widget is used to make the bottom navigation bar
         bottomNavigationBar: BottomNavigationBar(
           items: [
+            // This is used to set the items we want to have on the navigation bar
+            // We can have both icons and text or anyone of them as the item
             BottomNavigationBarItem(
                 icon: Icon(
                   Icons.home,
