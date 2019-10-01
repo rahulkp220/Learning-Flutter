@@ -13,9 +13,9 @@ A repo dedicated to learning and understanding app development with Flutter and 
 
 #### Installing Flutter Locally
 
-Google has a great documentation for installing flutter on any OS. Click on the link that clearly identifies you operating system.
+Google has a great documentation for installing flutter on any OS. Click on the link that clearly identifies your operating system.
 
-- [Window](https://flutter.io/setup-windows/)
+- [Windows](https://flutter.io/setup-windows/)
 - [Mac OS](https://flutter.io/setup-macos/)
 - [Linux](https://flutter.io/setup-linux/)
 
@@ -25,7 +25,7 @@ I will be using VSCode for developing all my flutter apps. However, you can also
 Here are the links to configure the IDEs.
 
 - [Android Studio](https://flutter.io/get-started/editor/#androidstudio)
-- [vscode](https://flutter.io/get-started/editor/#vscode)
+- [VSCode](https://flutter.io/get-started/editor/#vscode)
 
 #### Flutter Examples List
 
