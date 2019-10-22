@@ -1,0 +1,87 @@
+name: bandung_destination
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  font_awesome_flutter: ^8.0.1
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+      - assets/login_logo.png
+      - assets/wisata.png
+      - assets/penginapan.png
+      - assets/kuliner.png
+      - assets/kendaraan.png
+      - assets/oleh_oleh.png
+      - assets/destination.png
+      - assets/fashion.png
+      - assets/pendidikan.png
+      - assets/fasilitas.png
+
+      - images/image01.JPG
+      - images/image02.JPG
+      - images/image03.JPG
+      - images/image04.JPG
+      - images/image05.JPG
+      - images/image06.JPG
+      - images/image07.JPG
+      - images/image08.JPG
+      - images/image09.JPG
+      - images/image10.JPG
+      - images/image11.JPG
+      - images/image12.JPG
+      - images/image13.JPG
+      - images/image14.JPG
+      - images/image15.JPG
+      - images/image16.JPG
+      - images/image17.JPG
+      - images/image18.JPG
+      - images/image19.JPG
+      - images/image20.JPG
+      - images/image21.JPG
+      - images/image22.JPG
+      - images/image23.JPG
+      - images/image24.JPG
+      - images/image25.JPG
+      - images/image26.JPG
+      - images/image27.JPG
+      - images/image28.JPG
+      - images/image29.JPG
+
+  fonts:
+    - family: WorkSansSemiBold
+      fonts:
+        - asset: assets/fonts/Work_Sans/WorkSans-Semibold.ttf
+
+    - family: WorkSansBold
+      fonts:
+        - asset: assets/fonts/Work_Sans/WorkSans-Bold.ttf
+
+    - family: WorkSansMedium
+      fonts:
+        - asset: assets/fonts/Work_Sans/WorkSans-Medium.ttf
