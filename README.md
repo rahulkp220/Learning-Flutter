@@ -53,6 +53,5 @@ A lot of code and mehods to acheive functionalities have been inspired by
 I am personally open for any contributions and improvements in my existing codebase.
 Please open up an issue first, and then proceed with sending a PR for the same.
 
-### Mi_Card
-<img src="./images/mi_card.jpeg" height="320" width="180">
+
 
